@@ -106,4 +106,4 @@ The proposed schema fixes this by storing each individual once (`Personel`/`Stud
 ## Author
 
 **Sindi Borici** — Mathematics & Technology BSc (2025), MSc Software Engineering in progress.
-Durrës, Albania · [LinkedIn](www.linkedin.com/in/sindi-borici-5a884b2b7) · sindiborici12@gmail.com
+Durrës, Albania · (www.linkedin.com/in/sindi-borici-5a884b2b7) · sindiborici12@gmail.com
