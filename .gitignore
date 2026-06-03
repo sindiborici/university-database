@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# SQL Server local files (database files should never be committed)
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# SSMS user state
+*.suo
+*.user
